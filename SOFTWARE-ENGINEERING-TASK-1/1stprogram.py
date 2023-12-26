@@ -1,3 +1,4 @@
+#importting matplotlib librery
 import matplotlib.pyplot as plt
 
 def quadratic_weather_model(time, a, b, c):
